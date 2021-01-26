@@ -1,3 +1,2 @@
 # CRM-система
-Страница регистрации
-https://github.com/stpolina/crm/blob/main/images/register.jpg
+Скриншоты CRM-системы доступны по ссылке: https://github.com/stpolina/crm/tree/main/images
